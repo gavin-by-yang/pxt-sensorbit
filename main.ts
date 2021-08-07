@@ -205,7 +205,7 @@ enum Mode {
 }
 
 
-//% color="#FFA500" weight=10 icon="\uf2c9" block="Sensor:bit"
+//% color="#FFA500" weight=10 icon="\uf2c9" block="知创传感器"
 namespace sensors {
     //% blockId=actuator_buzzer0 block="actuator_buzzer0 pin ：%pin|status %status"   group="有源蜂鸣器"
     //% weight=70
